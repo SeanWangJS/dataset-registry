@@ -1,5 +1,0 @@
-[core]
-    remote = oss
-['remote "oss"']
-    url = oss://dataset-registry
-    oss_endpoint = http://oss-cn-hangzhou.aliyuncs.com
