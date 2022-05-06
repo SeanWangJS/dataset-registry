@@ -1,0 +1,4 @@
+[core]
+    remote = cncrdata
+['remote "cncrdata"']
+    url = ssh://root@192.168.94.170/data1/dataset
